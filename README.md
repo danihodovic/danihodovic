@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danihodovic&label=Profile%20views&color=0e75b6&style=flat" alt="danihodovic" /> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/danihodovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="danihodovic" height="30" width="40" /></a>
@@ -17,3 +11,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danihodovic&show_icons=true&locale=en&layout=compact" alt="danihodovic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danihodovic&show_icons=true&locale=en" alt="danihodovic" /></p>
+
